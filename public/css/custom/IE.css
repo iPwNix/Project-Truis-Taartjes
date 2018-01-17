@@ -1,0 +1,44 @@
+body{
+	/*background: red !important;*/
+}
+
+.register-container
+{
+	margin-top: 150px !important;
+}
+
+#cake-completed{
+	display: none !important;
+}
+
+
+.creations-container{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+
+/*.posts-title-col,
+.post-col-title,
+.post-col-status,
+.post-col-comments,
+.post-descript-col,
+.gottaLogMsg,
+.comment-avatar-namerow > a,
+.comment-content-col > span,
+.comment-daterow,
+.nav-menu-link,
+.logregister-panel-head,
+.infoTitle-span,
+.infoData-span{
+	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000,
+	 -1px 1px 0 #000, 1px 1px 0 #000;
+}*/
+
+
+.baksels-col{
+	padding-left: 35px;
+padding-right: 35px;
+}
+/*.logregister-row{
+margin-top: 75px !important;
+}*/
