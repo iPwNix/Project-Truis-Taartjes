@@ -6,16 +6,16 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-# Project Guild Site (Aegis of Envy)
+# Project Truis Taartjes
 
 # Code
 ### NL
-Meeste code zit in de folders: app (Models), app/Http/Controllers (Controllers), resources/views (HTML), public/css (CSS).
+Meeste code zit in de folders: app (Models), app/Http/Controllers (Controllers), resources/views (HTML), public/css/custom (CSS), public/js/custom (Javascript/jQuery).
 
 Er lijkt een spacing probleem te zijn op github met de code, geen idee wat dit veroorzaakt in mijn code editor ziet het er normaal en netjes uit, ik zal het proberen hier op github op te lossen door bij hand alles aan te passen.
 
 ### ENG
-Most code resides within the folders: app (Models), app/Http/Controllers (Controllers), resources/views (HTML), public/css (CSS).
+Most code resides within the folders: app (Models), app/Http/Controllers (Controllers), resources/views (HTML), public/css/custom (CSS), public/js/custom (Javascript/jQuery).
 
 There seems to be a spacing problem with the code here on github, i have no idea whats causing this because in my code editor everything seems clean anr normal, i'll try and fix it by hand here on github.
 
