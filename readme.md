@@ -28,7 +28,7 @@ Waar ook mensen die geregistreerd hebben en hun account hebben geactiveerd via d
 
 De voor pagina bevat een carousel met fotos, een beschrijving van de persoon met een foto, een [isotope](https://isotope.metafizzy.co/) met fotos en een counter die bij houd hoeveel van elk baksel er gemaakt is.
 
-Admins kunnen vanalles doen om de site te beheren onder andere, de artikels (Baksels) aanpassen zoals foto's verwijderen/bijwerken en van catagory veranderen, de carousel en isotope updaten, comments bijwerken en verwijderen, gebruikers bijwerken en bannen.
+Admins kunnen van alles doen om de site te beheren onder andere, de artikels (Baksels) aanpassen zoals foto's verwijderen/bijwerken en van catagory veranderen, de carousel en isotope updaten, comments bijwerken en verwijderen, gebruikers bijwerken en bannen.
 
 
 ### ENG
