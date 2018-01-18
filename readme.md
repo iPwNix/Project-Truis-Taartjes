@@ -23,19 +23,26 @@ There seems to be a spacing problem with the code here on github, i have no idea
 
 ### NL
 Een school en tegelijk een persoonlijk project, voor een kennis die haar eigen site wilden hebben om fotos van haar taarten en baksels te kunnen laten zien, met een kinderlijk en simpele uitstraling.
+
 Ik heb er een sort van responsive portfolio site van gemaakt waar een sort van artikelen in dit geval fotos van haar baksels met een verhaaltje en een catagory gepost kunnen worden.
+
 Waar ook mensen die geregistreerd hebben en hun account hebben geactiveerd via de code die hun opgestuurt word op kunnen commenten, deze gebruikers kunnen ook hun avatar en hun eigen comments aanpassen en verwijderen.
+
 De voor pagina bevat een carousel met fotos, een beschrijving van de persoon met een foto, een [isotope](https://isotope.metafizzy.co/) met fotos en een counter die bij houd hoeveel van elk baksel er gemaakt is.
+
 
 Admins kunnen van alles doen om de site te beheren onder andere, de artikels (Baksels) aanpassen zoals foto's verwijderen/bijwerken en van catagory veranderen, de carousel en isotope updaten, comments bijwerken en verwijderen, gebruikers bijwerken en bannen.
 
 
 ### ENG
 A School and at the same time a personal project, for a friend who wanted her own site to display photos of her baked goods, with a someonewhat child like and simple design.
+
 I made this sort of responsive portfolio site where a kind of articles could be posted in this case photos of her baked goods with a story and catagory to go with them.
+
 Where registered users who activated their account with the link that is sent to them when they register can comment, these users can also edit their avatar and can edit/delete their own comments.
 
 The front page contains a carousel with pictures, a description of the person with a photo, a [isotope](https://isotope.metafizzy.co/) with pictures and a counter that keeps track of how many of each catagory baked good has been posted on the site.
+
 
 Admins can do all sorts of things to manage the site like, edit/delete the articles (Baked goods) photos and move the baked good to another catagory, update the carousel and isotope, delete or update comments, and update users information or ban them from the site completely.
 
