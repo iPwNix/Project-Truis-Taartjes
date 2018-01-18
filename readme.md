@@ -23,7 +23,9 @@ There seems to be a spacing problem with the code here on github, i have no idea
 
 ### NL
 Een school en tegelijk een persoonlijk project, voor een kennis die haar eigen site wilden hebben om fotos van haar taarten en baksels te kunnen laten zien, met een kinderlijk en simpele uitstraling.
+
 Ik heb er een sort van responsive portfolio site van gemaakt waar een sort van artikelen in dit geval fotos van haar baksels met een verhaaltje en een catagory gepost kunnen worden.
+
 Waar ook mensen die geregistreerd hebben en hun account hebben geactiveerd via de code die hun opgestuurt word op kunnen commenten, deze gebruikers kunnen ook hun avatar en hun eigen comments aanpassen en verwijderen.
 
 De voor pagina bevat een carousel met fotos, een beschrijving van de persoon met een foto, een [isotope](https://isotope.metafizzy.co/) met fotos en een counter die bij houd hoeveel van elk baksel er gemaakt is.
